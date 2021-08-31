@@ -1,3 +1,8 @@
+body {
+  background-color: #2e2e66;
+  color: white;
+}
+
 .main-content {
   text-align: center;
   padding-top: 3rem;
@@ -5,4 +10,8 @@
 
 p {
   font-size: 24px;
+}
+
+a {
+  color: #f3356b;
 }
